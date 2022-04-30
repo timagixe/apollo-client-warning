@@ -1,3 +1,6 @@
+# About
+This repo was created in order to reproduce [apollographql/invariant-packages/issues/279](https://github.com/apollographql/invariant-packages/issues/279)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
