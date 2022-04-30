@@ -1,6 +1,9 @@
 import React from 'react';
+import { RestLink } from "apollo-link-rest";
 import logo from './logo.svg';
 import './App.css';
+
+new RestLink({ uri: "https://github.com/" });
 
 function App() {
   return (
