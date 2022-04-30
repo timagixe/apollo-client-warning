@@ -1,9 +1,11 @@
 import React from 'react';
-import { RestLink } from "apollo-link-rest";
+import { ApolloClient, InMemoryCache } from "@apollo/client";
 import logo from './logo.svg';
 import './App.css';
 
-new RestLink({ uri: "https://github.com/" });
+new ApolloClient({
+  cache: new InMemoryCache()
+});
 
 function App() {
   return (
