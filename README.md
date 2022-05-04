@@ -1,5 +1,5 @@
 # About
-This repo was created in order to reproduce [apollographql/invariant-packages/issues/279](https://github.com/apollographql/invariant-packages/issues/279)
+This repo was created in order to reproduce [apollographql/invariant-packages/issues/279](https://github.com/apollographql/invariant-packages/issues/279) [CLOSED]
 
 # Getting Started with Create React App
 
